@@ -2,7 +2,11 @@
 Lets create a efficient JS to GLSL compiler + an awesome GPU computing library.
 
 
-Estimated date of completion: 2019
+Estimated date of completion: 2019 or so.
+
+Hopefully I get to finish it on my summer break.
+
+But it all depends on my willpower. I may just rest.
 
 ### Goals
 
